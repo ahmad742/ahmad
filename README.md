@@ -8,26 +8,25 @@ While my core expertise is in React Native, I also have strong skills in React a
 I enjoy turning complex requirements into intuitive, engaging mobile experiences while writing code that is efficient, scalable, and easy to maintain.
 
 🛠️ Technical Skills
-
-Frontend / Mobile
-
-React Native
-
-React
+Frontend
 
 Next.js
-
+React
+React Native
 JavaScript (ES6+)
-
 HTML5 & CSS3
+Responsive UI Development
+Backend
 
-Responsive & Adaptive UI
-
+Node.js (Express)
+MongoDB
+REST APIs
 Tools & Workflow
+
 Git & GitHub
-Performance Optimization
-Code Architecture & Clean Code Practices
 API Integration
+Performance Optimization
+Clean Code & Best Practices
 
 💡 Development Philosophy
 I believe that great mobile apps are built at the intersection of clean code, scalable architecture, and excellent user experience. I focus on building solutions that are maintainable, performant, and tailored to real user needs.
