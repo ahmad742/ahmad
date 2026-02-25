@@ -24,17 +24,12 @@ HTML5 & CSS3
 Responsive & Adaptive UI
 
 Tools & Workflow
-
 Git & GitHub
-
 Performance Optimization
-
 Code Architecture & Clean Code Practices
-
 API Integration
 
 💡 Development Philosophy
-
 I believe that great mobile apps are built at the intersection of clean code, scalable architecture, and excellent user experience. I focus on building solutions that are maintainable, performant, and tailored to real user needs.
 
 🌐 Let’s Connect
